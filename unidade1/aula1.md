@@ -13,7 +13,7 @@ Ambiente, VsCode, Java, GitHub Desktop, Front e Back End, repositório no GitHub
 11. Faça _push_ do repositório local para o GitHub.
 12. Adicione a conta **pwebufersa** como colaborador do repositório.
 13. Crie uma pasta e arquivo de nome "u1_exercicio1\primeiraPagina.html" na raiz do repositório local.
-14. Imite esse [site](outros/u1_exercicio1/u1_exercicio1_pt1.jpg). Pesquise as tags na [w3c](https://www.w3schools.com/TAGS/default.ASP) ou na [MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML).
+14. Imite esse [site](u1_exercicio1_pt1.jpg). Pesquise as tags na [w3c](https://www.w3schools.com/TAGS/default.ASP) ou na [MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML).
 15. Após concluir, faça _commit_ e _push_.
 
 ### Parte 2 - HTML e CSS do CRUD do CadPessoas
@@ -23,7 +23,7 @@ Ambiente, VsCode, Java, GitHub Desktop, Front e Back End, repositório no GitHub
 1. Você deverá codificar, com HTML e CSS, todo o site do CadPessoas do exercício 2 e colocar tudo na pasta **u1_exercicio1**. São 8 arquivos .html e 1 pasta **assets** com 2 imagens.
 2. [Nessa imagem](u1_exercicio1_pt2_estruturaDir.jpg) há o nome dos arquivos e diretórios que você deve entregar.
 3. Observe que as imagens do site estão na pasta **assets**. Escolha qualquer imagem para água e escolha um ícone/**favicon** [desse site](https://icon-icons.com). Baixe o arquivo .ico e use-o em todo o site como favicon.
-4. [Aqui](telasDoSite) estão as telas/**prints** de todo o site, que você deve imitar.
+4. [Aqui](telasDoSite) estão as telas/prints de todo o site, que você deve imitar.
 5. A navegação no site foi pensada previamente. Veja o vídeo e confira se a navegação do seu site está de acordo.
 6. [Aqui](https://www.w3schools.com/w3css/w3css_navigation.asp) tem o link da barra de navegação a ser usada.
 
