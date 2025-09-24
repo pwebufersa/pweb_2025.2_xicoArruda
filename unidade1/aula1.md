@@ -14,7 +14,7 @@ Ambiente, VsCode, Java, GitHub Desktop, Front e Back End, repositório no GitHub
 9. Imite esse [site](u1_exercicio1_pt1.jpg). Pesquise as tags na [w3c](https://www.w3schools.com/TAGS/default.ASP) ou na [MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML).
 10. Após concluir, faça _commit_ e _push_.
 
-### Parte 2 - HTML com CSS e Javascript?
+### Parte 2 - HTML, CSS, Javascript?
 
 1. Usando HTML, CSS e Javascript, recrie o site descrito. Coloque tudo na pasta **u1_exercicio1**. São 8 arquivos .html e 1 pasta **assets** com 2 imagens. Valide pelo menos um campo com javascript.
 2. [Nessa imagem](u1_exercicio1_pt2_estruturaDir.jpg) há o nome dos arquivos e diretórios que você deve entregar.
