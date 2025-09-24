@@ -64,3 +64,6 @@ Spring MVC, Projeto da Disciplina - Milestone 2 [aqui](unidade3/aulaX.md).
 
 ### Vídeo - Não terceirize suas decisões:
 - [Por Fábio Akita](https://www.youtube.com/watch?v=D3L8IOncLkg).
+
+### Post - Mudando a personalidade do GPT:
+- [Por Fábio Akita](https://akitaonrails.com/2025/04/28/destruindo-a-personalidade-do-chatgpt-4o/).
