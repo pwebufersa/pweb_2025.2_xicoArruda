@@ -60,7 +60,7 @@ Spring MVC, Projeto da Disciplina - Milestone 2 [aqui](unidade3/aulaX.md).
 
 ### Um site muito rápido:
 - [McMaster-Carr](https://www.mcmaster.com/).
-- [Vídeo explicando ](https://www.youtube.com/watch?v=-Ln-8QM8KhQ).
+- [Vídeo explicando](https://www.youtube.com/watch?v=-Ln-8QM8KhQ).
 
 ### Vídeo - Não terceirize suas decisões:
 - [Por Fábio Akita](https://www.youtube.com/watch?v=D3L8IOncLkg).
